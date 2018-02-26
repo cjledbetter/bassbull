@@ -1,0 +1,2 @@
+# bassbull
+Haskell test project
